@@ -11,7 +11,7 @@ Maven project.
 How to run in eclipse:  
   - import as maven project,  
   - right click on the project ->Run As ->Maven build  -> complete the field Goals : tomcat7:run,  
-  - in browser  http://localhost:8080    name: Andrei	pass: 111  
+  - in browser  'http://localhost:8080'    name: Andrei	pass: 111  
   
     
       
