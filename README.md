@@ -1,6 +1,6 @@
 # servlets-and-jsp
 Servlet and JSP Learning Project. First step.   
-Create and manage a To do list.  
+Create and manage a To do list: login, view Todo list, add Todo, delete Todo 
   
     
     
