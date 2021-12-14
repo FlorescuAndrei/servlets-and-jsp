@@ -1,7 +1,10 @@
 # servlets-and-jsp
 Servlet and JSP Learning Project. First step.   
-Create and manage a To do list: login, view Todo list, add Todo. 
-  
+Create and manage a To do list:   
+  - login,   
+  - view Todo list,   
+  - add Todo. 
+ Two servlets(LoginServlet, TodoServlet) and two jsp files(login.jsp, todo.jsp) that work together and send data between them.
     
     
 Maven project.   
