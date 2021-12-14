@@ -1,5 +1,5 @@
 # servlets-and-jsp
-Servlet and JSP Learning Project. First step.   
+Understanding Servlets and Jsp. First step.   
 Create and manage a To do list:   
   - login,   
   - view Todo list,   
